@@ -1,4 +1,4 @@
-# stealthAg Meteor Challenge
+# StealthAg Meteor Challenge
 
 ## ☄ Meteor Challenge (Part 1) - By Daniel Fernandes Pinho
 
